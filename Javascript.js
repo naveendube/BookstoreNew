@@ -61,7 +61,7 @@ function validate3(){
     let NumPattern= new RegExp("^[0-9]*$");
     phoneNode.style.border="2px red solid";
     if(numb==""){
-        errorNode3.textContent="Contact Number is required";
+        errorNode3.textContent="Number is required";
         return false;
     }
     else if(numb.length<10){

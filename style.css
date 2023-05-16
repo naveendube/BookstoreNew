@@ -281,6 +281,9 @@
     width: 210px;
     color: black;
 }
+.erroc{
+    margin-left: -30%; 
+ }
 
 
 
@@ -329,6 +332,9 @@
     background-color:lightseagreen;
     height: 750px;
 }
+.log{
+    margin-left: 10%;
+}
 
 /* Registration Form */
 .bt{
@@ -353,3 +359,20 @@
     text-align: center;
     height: 750px;
 }
+.div1{
+    /* background-color: aqua; */
+    height: 550px;
+    width: 500px;
+    margin: 50px;
+    text-align: center;
+    
+ 
+ }
+ .head{
+    font-size: 40px;
+    color: greenyellow;
+    padding: 25px;
+    margin-top: 17%;
+ }
+
+ 
